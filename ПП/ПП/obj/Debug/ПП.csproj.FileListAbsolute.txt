@@ -1,0 +1,17 @@
+C:\Users\ftnik\source\repos\ПП\ПП\bin\Debug\ПП.exe.config
+C:\Users\ftnik\source\repos\ПП\ПП\bin\Debug\ПП.exe
+C:\Users\ftnik\source\repos\ПП\ПП\bin\Debug\ПП.pdb
+C:\Users\ftnik\source\repos\ПП\ПП\bin\Debug\Guna.UI2.dll
+C:\Users\ftnik\source\repos\ПП\ПП\obj\Debug\ПП.csproj.AssemblyReference.cache
+C:\Users\ftnik\source\repos\ПП\ПП\obj\Debug\ПП.csproj.SuggestedBindingRedirects.cache
+C:\Users\ftnik\source\repos\ПП\ПП\obj\Debug\ПП.Employees.resources
+C:\Users\ftnik\source\repos\ПП\ПП\obj\Debug\ПП.Login.resources
+C:\Users\ftnik\source\repos\ПП\ПП\obj\Debug\ПП.Properties.Resources.resources
+C:\Users\ftnik\source\repos\ПП\ПП\obj\Debug\ПП.csproj.GenerateResource.cache
+C:\Users\ftnik\source\repos\ПП\ПП\obj\Debug\ПП.csproj.CoreCompileInputs.cache
+C:\Users\ftnik\source\repos\ПП\ПП\obj\Debug\ПП.csproj.CopyComplete
+C:\Users\ftnik\source\repos\ПП\ПП\obj\Debug\ПП.exe
+C:\Users\ftnik\source\repos\ПП\ПП\obj\Debug\ПП.pdb
+C:\Users\ftnik\source\repos\ПП\ПП\obj\Debug\ПП.Categories.resources
+C:\Users\ftnik\source\repos\ПП\ПП\obj\Debug\ПП.Leaves.resources
+C:\Users\ftnik\source\repos\ПП\ПП\obj\Debug\ПП.ViewLeave.resources
